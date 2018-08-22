@@ -7,3 +7,12 @@
 	padding-left: 3%;
 	background: white;
 }
+
+.landingArtistContainer {
+	margin-left: 5%;
+	margin-right: 5%;
+	padding-top: 10px;
+	padding-right: 3%;
+	padding-left: 3%;
+	float: left;
+}

@@ -1,0 +1,8 @@
+.artistCardContainer {
+	width: 23.33%;
+	margin-left: 5%;
+	margin-right: 5%;
+	height: 250px;
+	background: red;
+	float: left;
+}

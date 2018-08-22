@@ -1,6 +1,7 @@
 import React from 'react';
 import './Landing.css';
 import { Link } from "react-router-dom";
+import ArtistsCard from '../artistCard/artistCard'
 
 const MainPage = props => {
 	return <div className="landingContainer">
@@ -48,7 +49,11 @@ const MainPage = props => {
 				<div className="landingArtistContainer">
 					<div className="artistTitleContainer">
 						<h1>Artist List</h1>
-
+					</div>
+					<div className="artistCardContainer">
+						<ArtistsCard />
+						<ArtistsCard />
+						<ArtistsCard />
 					</div>
 				</div>
 		   </div>;
