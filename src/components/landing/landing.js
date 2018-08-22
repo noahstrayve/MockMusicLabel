@@ -53,7 +53,7 @@ const MainPage = props => {
 					<div className="artistCardContainer">
 						<ArtistsCard />
 						<ArtistsCard />
-						<ArtistsCard />
+
 					</div>
 				</div>
 		   </div>;

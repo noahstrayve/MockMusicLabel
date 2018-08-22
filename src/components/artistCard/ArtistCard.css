@@ -1,8 +1,12 @@
 .artistCardContainer {
-	width: 23.33%;
-	margin-left: 5%;
-	margin-right: 5%;
+	width: 100%;
 	height: 250px;
 	background: red;
 	float: left;
+}
+
+.artistPhotoContainer {
+	width: 100%;
+	height: 100px;
+	background-size: auto;
 }
