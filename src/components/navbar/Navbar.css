@@ -79,7 +79,7 @@
 
 .linkBall {
 	float: left;
-	height: 45px;
+	height: 47px;
 	width: auto;
 	border-radius: 75px;
 	background: green;
@@ -87,6 +87,7 @@
 	text-align: center;
 	padding-right: 15px;
 	padding-left: 15px;
+	background: #FDD475;
 }
 
 #linkText {
@@ -94,11 +95,16 @@
 	
 }
 
+.linkContainerTop {
+	margin-top: 15px;
+}
+
 .linkContainerBottom {
 	width: 100%;
 	float: left;	
 	height: 75px;
 	margin-top: 20px;
+	margin-left: 8.3%;
 }
 
 #linkText {
